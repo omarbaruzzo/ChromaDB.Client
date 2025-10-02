@@ -12,8 +12,8 @@
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<RepositoryType>git</RepositoryType>
-		<RepositoryUrl>https://github.com/ssone95/ChromaDB.Client</RepositoryUrl>
-		<PackageProjectUrl>https://github.com/ssone95/ChromaDB.Client</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/omarbaruzzo/ChromaDB.Client</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/omarbaruzzo/ChromaDB.Client</PackageProjectUrl>
 		<IncludeSymbols>true</IncludeSymbols>
 		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
 	</PropertyGroup>
